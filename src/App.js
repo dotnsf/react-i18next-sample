@@ -40,7 +40,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://raw.githubusercontent.com/dotnsf/react-i18next-sample/gh-pages/logo.svg" className="App-logo" alt="logo" />
         <p>
           {t('edit_message1')} <code>src/App.js</code> {t('edit_message2')}
         </p>
